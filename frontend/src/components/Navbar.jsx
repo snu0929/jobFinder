@@ -3,7 +3,7 @@ import {
     Button, Avatar, HStack, Spacer, Text, IconButton,
     Menu, MenuButton, MenuList, MenuItem
 } from "@chakra-ui/react";
-import { SearchIcon, HamburgerIcon } from "@chakra-ui/icons";
+// import { SearchIcon, HamburgerIcon } from "@chakra-ui/icons";
 import { Link } from "react-router-dom";
 
 const Navbar = () => {
